@@ -1,8 +1,9 @@
 Rich Ad Media
 ===================
-----------
+
 360 x 600 Banner
 -------------
+
 Demo: [360 x 600 Banner](https://clyd3robert.github.io/Rich-Ad-Media/360%20x%20600/google%20web%20designer/tlm300x600/tlm300x600.html) 
 
 **Environment**: DoubClick
@@ -19,10 +20,9 @@ Demo: [360 x 600 Banner](https://clyd3robert.github.io/Rich-Ad-Media/360%20x%206
 **File Cound:**		3
 **Pages:**	Page1 (300pxx250px)
 
-----------
-
 Expandable creative with Video Player
 -------------
+
 Demo: [Expandable creative with Video Player](https://clyd3robert.github.io/Rich-Ad-Media/Expandable%20creative%20with%20Video%20Player/Google%20Web%20Designer/Expandale%20Create%20with%20Video%20Player/Expandable%20Create%20with%20Video%20Player.html) 
 
 **Environment**: DoubClick
@@ -42,9 +42,10 @@ Demo: [Expandable creative with Video Player](https://clyd3robert.github.io/Rich
  - Banner page (160px x 600px)
  - Expanded page (600px x 600px)
 
-----------
+
 In-Page Video Player
 -------------
+
 Demo: [In-Page Video Player](https://clyd3robert.github.io/Rich-Ad-Media/In-Page%20Video%20Player/Google%20Web%20Designer/In-Page%20Video%20Player/In-Page%20Video%20Player.html) 
 
 **Environment**: DoubClick
