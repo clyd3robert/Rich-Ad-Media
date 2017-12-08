@@ -1,12 +1,8 @@
 Welcome to StackEdit!
 ===================
-
-
-asdsad
-
 ----------
 
-Add Name
+AD Name
 -------------
 
 Link: [https://9gag.com](https://9gag.com) 
